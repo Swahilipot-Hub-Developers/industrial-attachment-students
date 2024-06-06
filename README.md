@@ -29,5 +29,8 @@
 | Suleiman           | [Profile](src/suleiman-2023.md)       |
 | Lewis Murimi       | [Profile](src/lewis-murimi-2024.md)   |
 | Chris Achinga      | [Profile](src/chris-achinga-2021.md)  |
+| Abdirahman Aden    | [Profile](src/Abdirahman-Aden-2024.md)|
+
+
 
 
